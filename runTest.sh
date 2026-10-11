@@ -1,0 +1,1 @@
+./cutechess/build/cutechess-cli -openings file=noob_3moves.epd format=epd order=random plies=16 -repeat -engine cmd=test.exe name="Test-A" proto=uci -engine cmd=test.exe name="Test-B" proto=uci -each tc=8+0.08 -rounds 100 -concurrency 16 -pgnout games.pgn

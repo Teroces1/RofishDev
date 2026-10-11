@@ -1,0 +1,7 @@
+{
+  "name": "v001 baseline",
+  "version": "1",
+  "parent": "",
+  "tags": ["baseline"],
+  "notes": "Example metadata. Put your compiled engine.exe next to this file, or delete this folder."
+}

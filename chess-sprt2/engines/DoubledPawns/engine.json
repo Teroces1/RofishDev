@@ -1,0 +1,11 @@
+{
+  "exe": "test.exe",
+  "name": "Doubled Pawns",
+  "version": "2",
+  "parent": "Base",
+  "tags": [
+    "eval",
+    "pawns"
+  ],
+  "notes": "Penalty = 5"
+}
